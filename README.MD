@@ -46,6 +46,7 @@ The goal was to understand and apply essential Git commands for version control 
 ### 11. `git pull`
 - Fetches and integrates changes from a remote repository into the local branch.
 
+### 12. `demo  `
 ---
 
 ## Summary
